@@ -1,0 +1,16 @@
+aiofiles==25.1.0
+aiosqlite==0.21.0
+annotated-doc==0.0.3
+annotated-types==0.7.0
+anyio==4.11.0
+asyncua==1.1.8
+cryptography==46.0.3
+fastapi==0.120.3
+Flask==3.1.2
+flask-cors==6.0.1
+Flask-SocketIO==5.5.1
+opcua==0.98.13
+simple-websocket==1.1.0
+typing-inspection==0.4.2
+typing_extensions==4.15.0
+uvicorn==0.38.0
