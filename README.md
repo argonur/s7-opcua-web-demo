@@ -46,4 +46,5 @@ npm run dev
 ```
 ---
 
-To configure the project settings with respect to the elements that make up the PLC, see `docs/customization`
+- To configure the project settings with respect to the elements that make up the PLC, see: `docs/customization`
+- To activate and configure your PLC's OPC UA server, find the documentation at: `docs/OPC UA Connection`
